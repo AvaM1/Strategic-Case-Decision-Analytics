@@ -1,5 +1,5 @@
-# Strategic Case Decision Analytics
-# Fire Department Scheduling Optimization
+# Strategic Case Decision Analytics - Fire Department Scheduling Optimization
+ 
 
 ## Overview
 This project focuses on solving a workforce scheduling problem for a fictional fire department, **Big Town Fire**, using project management and quantitative analysis techniques. Our objective was to create an optimal weekly schedule for firefighters that meets operational requirements while minimizing total labor costs.
